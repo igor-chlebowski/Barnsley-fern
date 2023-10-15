@@ -15,4 +15,4 @@ in you terminal write:
 // launch a.exe file
 "python barnsley.py"
 
-<img src="C:\Users\igorc\Downloads\barnsley.png" alt="Alt text" title="Optional title">
+![](barnsley.png)
